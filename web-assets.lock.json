@@ -1,0 +1,18 @@
+{
+  "source": "https://github.com/softm/geurium-poetry-web",
+  "files": {
+    "app.js": "ef6e54f57604324e46b6e38661b93772cbbe9a45903bb7517da66de9345eb141",
+    "common-account.css": "c579f0a38957df82111262aa582cfc1222d13194b32ba3d176ac54978e8fba4f",
+    "common-account.js": "940d4885eac2d9ea49f9a162e090c4368ca31f1539c7dad635afb68903866e39",
+    "icon-192.png": "bcb2e1a49e9b0fbbf404df275f6528fa16b4489f1d1d41f95a1139d285371134",
+    "icon-512.png": "e44051570c87f3623a0ddb9098de59e802e8ce5f7d1d49a202b4be9f755ea67f",
+    "icon.svg": "22568beb1a2869df08352d768069793d930250ebce6a35f4f02368dc32c85009",
+    "index.html": "596ab5000a50649a69523061eb5e17be1ee17d756495ead005bcc7592f7880d1",
+    "manifest.webmanifest": "a25192bc56f48cadf2d9694df90dbb8d090e0d4c0722f2c129323b756ac82c7b",
+    "native-bridge.js": "4adb48500ca22855081f3f9fbb74f8dfb4c5bf08bd3b903e2fcecb7ead12cf4f",
+    "pwa.js": "f5201df53c1859c641b52e708061ab5c37d86c2909e75f4238a820c2a3e01b17",
+    "styles.css": "bb48b2c9c4b37c8f78a8a35db45d8ad2a6516b8f54281c4f5c57511810982016",
+    "sw.js": "84bbe18a04ca95b35a64ae9cc0e90e7a1beb8c487eb26a1fbe6eba841ebf1cc6"
+  },
+  "source_commit": "06bef2a4e655f916acb056ef38bfba18c9e96dda"
+}
